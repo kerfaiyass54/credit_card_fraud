@@ -23,3 +23,4 @@ if __name__ == "__main__":
     print("Cleaned path:  ", config["dataset"]["cleaned"])
     print("Test size:     ", config["model"]["test_size"])
     print("Random state:  ", config["model"]["random_state"])
+    print("Random state:  ", config["target"]["name"])
