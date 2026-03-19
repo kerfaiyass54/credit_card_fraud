@@ -35,6 +35,9 @@ print("=" * 60)
 print(df.describe())
 print("=" * 60)
 print(df['Class'].value_counts())
+print("=" * 60)
+
+
 
 # ── 6. Missing Values ─────────────────────────────────────────────────────────
 print("\n" + "=" * 60)
