@@ -10,11 +10,17 @@
 **Detect fraudulent credit card transactions with a robust machine learning pipeline!**
 
 This repository provides a **complete, production-ready credit card fraud detection system** built with Python. It includes:
+
 ✅ **Data preprocessing** (cleaning, sampling, and balancing)
+
 ✅ **Exploratory Data Analysis (EDA)** for insights
+
 ✅ **Train-test split** with stratification
+
 ✅ **Logistic Regression model** for fraud detection
+
 ✅ **Model persistence** (saving trained models)
+
 ✅ **Configurable pipeline** via YAML
 
 Perfect for **data scientists, ML engineers, and fraud analysts** who want to build, test, and deploy fraud detection models quickly.
@@ -24,10 +30,15 @@ Perfect for **data scientists, ML engineers, and fraud analysts** who want to bu
 ## ✨ **Features**
 
 🔹 **End-to-end fraud detection pipeline** – From raw data to trained model
+
 🔹 **Class imbalance handling** – Balances fraudulent vs. legitimate transactions
+
 🔹 **Modular design** – Easy to extend with new models or preprocessing steps
+
 🔹 **Configurable via YAML** – Adjust paths, test sizes, and model parameters
+
 🔹 **Visualization tools** – Quick EDA with missing value and duplicate checks
+
 🔹 **Model persistence** – Save trained models for deployment
 
 ---
