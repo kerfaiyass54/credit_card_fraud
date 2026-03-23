@@ -18,4 +18,3 @@ def train_model():
     print('Accuracy score on Test Data : ', test_data_accuracy)
     joblib.dump(model, model_path)
     print(f'Model saved to {model_path}')
-    return model
