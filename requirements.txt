@@ -1,0 +1,6 @@
+fastapi
+yaml
+pathlib
+pandas
+scikit-learn
+joblib
