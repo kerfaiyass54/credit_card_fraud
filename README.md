@@ -72,7 +72,7 @@ Ensure you have Python 3.8+ installed. If not, download it from [python.org](htt
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/credit_card_fraud.git
+   git clone https://github.com/kerfaiyass54/credit_card_fraud.git
    cd credit_card_fraud
    ```
 
