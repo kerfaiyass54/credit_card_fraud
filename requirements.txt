@@ -4,3 +4,4 @@ pathlib
 pandas
 scikit-learn
 joblib
+uvicorn
